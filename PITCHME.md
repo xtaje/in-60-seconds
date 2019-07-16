@@ -21,6 +21,9 @@
 Snap Layouts let you create custom slide designs directly within your markdown.
 @snapend
 
++++
+# Here's a vertical slide
+
 ---?gist=xtaje/d0da0ba83988dec6cefd71587e37e1ed&lang=python&title=Predicate Function
 @[1-3](init some vars)
 @[1, 4-9](check the words for blacklisted symbols)
