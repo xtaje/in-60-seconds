@@ -33,6 +33,7 @@ Snap Layouts let you create custom slide designs directly within your markdown.
 
 ---
 @code[python](src/test.py)
+@[4-10](check words)
 
 
 
