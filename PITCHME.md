@@ -33,8 +33,8 @@ Snap Layouts let you create custom slide designs directly within your markdown.
 
 ---
 @code[python](src/test.py)
-@[2-3, zoom-30](init some vars)
-@[4-9, zoom-30](check the words for blacklisted symbols)
+@[2-3](init some vars)
+@[4-9](check the words for blacklisted symbols)
 
 
 
