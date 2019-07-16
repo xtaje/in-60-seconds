@@ -6,6 +6,9 @@
 
 ![](assets/img/presentation.png)
 
++++?code=src/test.py&lang=python
+
+
 ---?color=linear-gradient(180deg, white 75%, black 25%)
 @title[Customize Slide Layout]
 
@@ -31,7 +34,6 @@ Snap Layouts let you create custom slide designs directly within your markdown.
 ---
 @code[python](src/test.py)
 
-+++?code=src/test.py&lang=python
 
 ---?color=linear-gradient(90deg, #E27924 65%, white 35%)
 @title[Add A Little Imagination]
