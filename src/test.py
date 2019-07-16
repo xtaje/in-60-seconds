@@ -5,5 +5,5 @@ def is_blacklisted(key, text):
         if w in STOCK_SYMBOLS:
            limit -=1
 
-        if limit <= 0:
+        if limit == 0 or limit < 0:
             yield key
