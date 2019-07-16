@@ -7,7 +7,7 @@ highlight : monokai
 # Doc: https://gitpitch.com/docs/settings/theme
 #
 theme : template
-theme-background : [white]
+theme-background : [blue]
 
 #
 # Theme-Override Setting
