@@ -1,13 +1,13 @@
 # GitPitch In-60-Seconds - A Very Short Tutorial.
 #
 
-highlight : monokai
+highlight : mono-blue
 #
 # Theme Setting
 # Doc: https://gitpitch.com/docs/settings/theme
 #
 theme : template
-theme-background : [blue]
+theme-background : [green]
 
 #
 # Theme-Override Setting
