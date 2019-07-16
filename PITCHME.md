@@ -29,7 +29,9 @@ Snap Layouts let you create custom slide designs directly within your markdown.
 @[1, 4-9](check the words for blacklisted symbols)
 
 ---
-@code[Python](in-60-seconds/blob/master/assets/css/PITCHME.css)
+@code[python](src/test.py)
+
++++?code=src/test.py&lang=python
 
 ---?color=linear-gradient(90deg, #E27924 65%, white 35%)
 @title[Add A Little Imagination]
