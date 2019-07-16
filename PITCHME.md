@@ -32,7 +32,7 @@ Snap Layouts let you create custom slide designs directly within your markdown.
 @[1, 4-9](check the words for blacklisted symbols)
 
 ---
-@code[python](src/test.py)
+@code[python zoom-30](src/test.py)
 
 
 ---?color=linear-gradient(90deg, #E27924 65%, white 35%)
