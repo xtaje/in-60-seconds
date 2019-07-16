@@ -1,6 +1,7 @@
 # GitPitch In-60-Seconds - A Very Short Tutorial.
 #
 
+highlight : monokai
 #
 # Theme Setting
 # Doc: https://gitpitch.com/docs/settings/theme
